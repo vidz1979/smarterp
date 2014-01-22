@@ -1,0 +1,18 @@
+# ambiente
+bin/
+include/
+lib/
+
+# arquivos do python
+*.pyc
+*.pyo
+__pycache__
+
+# banco de dados
+*.sqlite3
+
+# parametros locais
+.env
+
+# arquivos diversos
+trash/
